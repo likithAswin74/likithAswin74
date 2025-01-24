@@ -1,7 +1,7 @@
 
 # Hi there, I'm Likith! 👋
 
-![Aspiring Developer](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJ2dG9ldXgwNGJycGc2NXFkb3VrcXFyZ3lqOTM0OHhxZWxseGRndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+![Aspiring Developer](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw5YmFmNnJtbzYzZWp3cjR1bWxidnRvMWVxazlzZmhtYmp0aDNtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PmAjqmm4beKervYzFr/giphy.gif)
 ---
 
 ## 🌟 About Me
