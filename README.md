@@ -1,8 +1,9 @@
 
-# Hi there, I'm Likith! 👋
+# Hi there, I'm Likith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-![Aspiring Developer](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw5YmFmNnJtbzYzZWp3cjR1bWxidnRvMWVxazlzZmhtYmp0aDNtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PmAjqmm4beKervYzFr/giphy.gif)
----
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw5YmFmNnJtbzYzZWp3cjR1bWxidnRvMWVxazlzZmhtYmp0aDNtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PmAjqmm4beKervYzFr/giphy.gif" alt="Aspiring Developer" />
+</div>
 
 ## 🌟 About Me
 - 💡 Interested in **web development, automation, and creative coding**.
