@@ -31,7 +31,8 @@
 ---
 
 
-## 📈 GitHub Stats
+## 📈 My Stats
+![Likith's GitHub stats](https://github-readme-stats.vercel.app/api?username=likithaswin74&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=likithAswin74&layout=compact&theme=radical)
 
 ---
